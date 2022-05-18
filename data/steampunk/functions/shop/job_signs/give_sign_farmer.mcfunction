@@ -1,8 +1,8 @@
 ##
- # give_sign_shop_vegetal.mcfunction
+ # give_sign_miner.mcfunction
  # 
  #
  # Created by Raphoulfifou.
 ##
 
-give @s dark_oak_sign{display: {Name: '[{"text": "Shop Farmer","color": "dark_aqua","italic": false}]'}, BlockEntityTag: {GlowingText: 1, Color: "orange", Text2: '{"text":"Métier de"}', Text3: '{"text":"Fermier","color":"gold"}'}} 1
+give @s dark_oak_sign{display: {Name: '[{"text": "Shop Fermier","color": "dark_aqua","italic": false}]'}, BlockEntityTag: {GlowingText: 1, Color: "orange", Text2: '{"text":"Métier de"}', Text3: '{"text":"Fermier","color":"gold"}'}} 1
