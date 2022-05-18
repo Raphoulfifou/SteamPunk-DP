@@ -1,5 +1,5 @@
 ##
- # give_sign_shop.mcfunction
+ # give_sign_shop_vegetal.mcfunction
  # 
  #
  # Created by Raphoulfifou.
