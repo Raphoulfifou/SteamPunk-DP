@@ -1,0 +1,46 @@
+{
+    "parent": "steampunk:root",
+    "display": {
+        "icon": {
+            "item": "minecraft:written_book"
+        },
+        "title": "Livre du pouvoir",
+        "description": [
+            {
+                "text": "Obtenez le livre du savoir en executant la commande ",
+                "color": "gray"
+            },
+            {
+                "text": "'/function steampunk:help/get_book' ",
+                "color": "dark_gray"
+            },
+            {
+                "text": "(seulement pour les OPs)",
+                "color": "gray"
+            }
+        ],
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "renamed_book": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:written_book"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "renamed_book"
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "pack_format": 9,
+        "description": [
+            {
+                "text": "SteamPunk",
+                "color": "gold"
+            },
+            {
+                "text": " MC 1.18.2",
+                "color": "dark_aqua"
+            },
+            {
+                "text": "\n[par Raphoulfifou]",
+                "color": "dark_red"
+            }
+        ]
+    }
+}

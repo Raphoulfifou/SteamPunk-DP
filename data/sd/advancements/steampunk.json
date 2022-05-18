@@ -1,0 +1,27 @@
+{
+    "parent": "sd:rd",
+    "display": {
+        "icon": {
+            "item": "minecraft:black_candle"
+        },
+        "title": "SteamPunk",
+        "description": [
+            {
+                "text": "Datapack ",
+                "color": "gray"
+            },
+            {
+                "text": "'SteamPunk'",
+                "color": "dark_gray"
+            }
+        ],
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
