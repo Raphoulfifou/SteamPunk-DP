@@ -1,0 +1,32 @@
+"{
+                CustomModelData: 8,
+                title:\"SteamPunk : Livre d'achats\",
+                author:\"Raphoulfifou\",
+                datapack:\"SteamPunk\",
+                pages: [
+                  '[
+                  {\"text\":\" \",\"color\":\"white\"},
+                    {\"text\":\"SteamPunk : Achats\",\"color\":\"dark_gray\"},
+                    {\"text\":\" \",\"color\":\"white\"},
+                    {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Ce livre permet l\\'accès aux différentes fonctionnalités du datapack.\",\"color\":\"green\"}]}},
+                    {\"text\":\"\\\\n\",\"color\":\"white\"},
+                    {\"text\":\"-------------------\",\"color\":\"black\"},
+                    {\"text\":\"\\\\n\",\"color\":\"white\"},
+                    {\"text\":\"  Table des matières\",\"color\":\"black\"},
+                    {\"text\":\"\\\\n\",\"color\":\"white\"},
+                    {\"text\":\"-------------------\",\"color\":\"black\"},
+                    {\"text\":\"\\\\n\",\"color\":\"white\"},
+                    {\"text\":\"   Livres enchantés\n\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2\"}}
+                                        ]',
+              
+                  '[ \"\",
+                    {\"text\":\"\\\\u00ab\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"}},
+                    {\"text\":\" Livres enchantés \",\"color\":\"dark_blue\"},
+                    {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Options relatives au joueur.\",\"color\":\"green\"}]}},
+                    {\"text\":\"\\\\n\",\"color\":\"white\"},
+                    {\"text\":\"-------------------\\\\n\",\"color\":\"dark_red\"},
+                    {\"text\":\"   Obtenir votre tête\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:player_related/get_head\"}},
+                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}
+                                                      ]'
+                                                    ]
+                                                  }"
