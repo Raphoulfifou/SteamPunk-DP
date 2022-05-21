@@ -1,0 +1,38 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/heart_of_the_sea"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/heart_of_the_sea/milys_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:item/heart_of_the_sea/milys_5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/heart_of_the_sea/milys_10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/heart_of_the_sea/milys_100"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:item/heart_of_the_sea/milys_1000"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+  "language.name": "French",
+  "language.region": "France",
+  "language.code": "fr_fr",
+  "item.minecraft.zombie_spawn_egg": "§fFour en Fer",
+  "item.minecraft.zombie_horse_spawn_egg": "§6Four en Or",
+  "item.minecraft.zombie_pigman_spawn_egg": "§3Four en Diamand",
+  "item.minecraft.zombie_villager_spawn_egg": "§4Four Extreme",
+  "advancements.sd.root.title": "Datapacks du serveur",
+  "advancements.sd.root.description": "Datapacks installés sur le serveur",
+  "advancements.sd.rd.description": "[Auteur]",
+  "advancements.sd.ae.title": "Armor Effects",
+  "advancements.sd.ae.description": "Ajoute quelques effets quand une pièce ou un outil en netherite, ou une elytre est équipé",
+  "advancements.sd.crafting.title": "Crafting Plus",
+  "advancements.sd.crafting.description": "Ajoute quelques crafts supplémentaires",
+  "advancements.sd.cyda.title": "Cyan Datapack",
+  "advancements.sd.cyda.description": "Ajoute quelques fonctionnalité utiles"
+}

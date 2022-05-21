@@ -1,0 +1,9 @@
+{
+    "language.name": "English",
+    "language.region": "United States",
+    "language.code": "en_us",
+    "advancements.steampunk.root.title": "Steampunk",
+    "advancements.steampunk.root.description": "Adds a few usefull things",
+    "steampunk.advancements.get_book.title": "Obtain the book",
+    "steampunk.advancements.get_book.description": "Sign a written book with the title 'SteamPunk'"
+}

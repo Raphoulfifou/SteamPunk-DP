@@ -1,0 +1,9 @@
+{
+    "language.name": "French",
+    "language.region": "France",
+    "language.code": "fr_fr",
+    "advancements.steampunk.root.title": "Steampunk",
+    "advancements.steampunk.root.description": "Ajoute quelques trucs utiles",
+    "steampunk.advancements.get_book.title": "Obtenez le livre",
+    "steampunk.advancements.get_book.description": "Signez un livre avec le titre 'SteamPunk'"
+}
