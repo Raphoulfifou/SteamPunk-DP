@@ -4,4 +4,4 @@
 # Entity @s:    player
 ##
 
-loot give @s loot steampunk:buy_book
+loot give @s loot steampunk:shop_book

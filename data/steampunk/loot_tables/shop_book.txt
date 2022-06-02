@@ -16,13 +16,27 @@
       {\"text\":\"\\\\n\",\"color\":\"white\"},
       {\"text\":\"-------------------\",\"color\":\"black\"},
       {\"text\":\"\\\\n\",\"color\":\"white\"},
-      {\"text\":\"  Obtenir le Panneau\n\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/buy/books/give_sign_books\"}},
+      {\"text\":\"  Panneaux de métier\n\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2\"}},
       {\"text\":\"\\\\n\",\"color\":\"white\"},
-      {\"text\":\"   Livres enchantés\n\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2\"}}
+      {\"text\":\"   Livres enchantés\n\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"3\"}}
     ]',
 
     '[
-      \"\",
+      {\"text\":\"\",\"color\":\"white\"},
+      {\"text\":\"\\\\u00ab\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"}},
+      {\"text\":\" Panneaux métiers \",\"color\":\"dark_blue\"},
+      {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Options relatives au joueur.\",\"color\":\"green\"}]}},
+      {\"text\":\"\\\\n\",\"color\":\"white\"},
+      {\"text\":\"-------------------\\\\n\",\"color\":\"dark_red\"},
+      {\"text\":\"         Fermier\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/give_sign_farmer\"}},
+      {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
+      {\"text\":\"        Forgeron\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/give_sign_blacksmith\"}},
+      {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
+      {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}
+    ]',
+
+    '[
+      {\"text\":\"\",\"color\":\"white\"},
       {\"text\":\"\\\\u00ab\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"}},
       {\"text\":\" Livres enchantés \",\"color\":\"dark_blue\"},
       {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Options relatives au joueur.\",\"color\":\"green\"}]}},
