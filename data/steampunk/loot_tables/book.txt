@@ -16,20 +16,20 @@
       {\"text\":\"\\\\n\",\"color\":\"white\"},
       {\"text\":\"-------------------\",\"color\":\"black\"},
       {\"text\":\"\\\\n\",\"color\":\"white\"},
-      {\"text\":\"       Joueur\n\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2\"}},
+      {\"text\":\"  Joueur\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2\"}},
+      {\"text\":\"     Monnaie\\\\n\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"3\"}},
       {\"text\":\"\\\\n\",\"color\":\"white\"},
-      {\"text\":\"Monnaie\\\\n\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"3\"}},
-      {\"text\":\"\\\\n\",\"color\":\"white\"},
-      {\"text\":\"         Credits\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4\"}}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-      {\"text\":\" Livre du shop\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:help/get_shop_book\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Donne le livre permettant l\\'accès aux différents panneaux de vente.\",\"color\":\"green\"}]}},
-      {\"text\":\"\\\\n\",\"color\":\"white\"},
-      {\"text\":\"\\\\n\",\"color\":\"white\"},
-      {\"text\":\"       Paramètres\n\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:help/settings_click\"}},
+      {\"text\":\"         Credits\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4\"}},
+      {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
+      {\"text\":\"      Livre du shop\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:help/get_shop_book\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Donne le livre permettant l\\'accès aux\\\\ndifférents panneaux de vente.\",\"color\":\"green\"}]}},
+      {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
+      {\"text\":\"       Paramètres\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:help/settings_click\"}},
+      {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
       {\"text\":\"    Crédits Complets\",\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:help/credits\"}}
     ]',
     
     '[
-      \"\",
+      {\"text\":\"\",\"color\":\"white\"},
       {\"text\":\"\\\\u00ab\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"}},
       {\"text\":\"        Joueur       \",\"color\":\"dark_blue\"},
       {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Options relatives au joueur.\",\"color\":\"green\"}]}},
@@ -40,7 +40,7 @@
     ]',
     
     '[
-      \"\",
+      {\"text\":\"\",\"color\":\"white\"},
       {\"text\":\"\\\\u00ab\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"}},
       {\"text\":\"        Monnaie      \",\"color\":\"dark_blue\"},
       {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Options pour le système monnétaire.\",\"color\":\"green\"}]}},
@@ -60,7 +60,7 @@
     ]',
     
     '[
-      \"\",
+      {\"text\":\"\",\"color\":\"white\"},
       {\"text\":\"\\\\u00ab\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"}},
       {\"text\":\"        Credits       \",\"color\":\"dark_blue\"},
       {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Cliquez sur les noms pour ouvrir les lien.\",\"color\":\"green\"}]}},
