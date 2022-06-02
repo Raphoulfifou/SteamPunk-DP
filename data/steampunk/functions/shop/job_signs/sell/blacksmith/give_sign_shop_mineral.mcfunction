@@ -1,5 +1,5 @@
 ##
- # give_sign_shop_blacksmithal.mcfunction
+ # give_sign_shop_mineral.mcfunction
  # 
  #
  # Created by Raphoulfifou.
