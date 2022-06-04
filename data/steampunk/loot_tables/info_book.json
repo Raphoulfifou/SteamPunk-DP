@@ -10,88 +10,11 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{
-                title: \"SteamPunk: Informations\",
-                author:\"Raphoulfifou\",
-                datapack:\"SteamPunk\",
-                pages: [
-                  '[
-                  {\"text\":\"    SteamPunk: Info  \",\"color\":\"dark_gray\"},
-                    {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Ce livre explique les différentes fonctionnalités du datapack.\",\"color\":\"green\"}]}},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"-------------------\",\"color\":\"black\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"  Table des matières\",\"color\":\"black\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"-------------------\",\"color\":\"black\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"  Change de monnaie :\",\"color\":\"red\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"       +\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2\"}},
-                    {\"text\":\"     |\",\"color\":\"red\"},
-                    {\"text\":\"     -\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"3\"}},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"      Shops métier\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"3\"}}
-                                                ]',
-              
-                  '[
-                                                  {\"text\":\"    Change de Milys\",\"color\":\"dark_green\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\" (par val supérieure)\",\"color\":\"dark_aqua\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"-------------------\",\"color\":\"dark_red\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\" b=bronze / a=argent\",\"color\":\"red\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"    g=or / d=diamand\",\"color\":\"red\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"      n=netherite\",\"color\":\"red\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"  5b = 1a / 10b = 2a\",\"color\":\"black\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"  2a = 1g / 10a = 5g\",\"color\":\"black\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\" 10g = 1d / 50g = 5d\",\"color\":\"black\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\" 10d = 1n / 50d = 5n\",\"color\":\"black\"}
-                                                                                      ]',
-              
-                  '[
-                                                                                        {\"text\":\"    Change de Milys\",\"color\":\"dark_green\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\" (par val supérieure)\",\"color\":\"dark_aqua\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"-------------------\",\"color\":\"dark_red\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\" b=bronze / a=argent\",\"color\":\"red\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"    g=or / d=diamand\",\"color\":\"red\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"      n=netherite\",\"color\":\"red\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"  5b = 1a / 10b = 2a\",\"color\":\"black\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"  2a = 1g / 10a = 5g\",\"color\":\"black\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\" 10g = 1d / 50g = 5d\",\"color\":\"black\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\" 10d = 1n / 50d = 5n\",\"color\":\"black\"}
-                                                                                                                            ]',
-              
-                  '[
-                                                                                                                              {\"text\":\"      Shops métier    \",\"color\":\"dark_green\"},
-                    {\"text\":\"\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"-------------------\",\"color\":\"dark_red\"},
-                    {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-                    {\"text\":\"Pour vendre des items contre du milys, cliquez droit sur le panneau correspondant à ce que vous \",\"color\":\"black\"},
-                    {\"text\":\"voulez vendre, tout en ayant la quantité indiqué de cet item dans votre main principale.\",\"color\":\"black\"}
-                                                                                                                                        ]'
-                                                                                                                                      ]
-                                                                                                                                    }"
-                                                                                                                                  }
-                                                                                                                                ]
-                                                                                                                              }
-                                                                                                                            ]
-                                                                                                                          }
-                                                                                                                        ]
-                                                                                                                      }
+              "tag": "{ CustomModelData: 8, title: \"SteamPunk: Informations\", author:\"Raphoulfifou\", datapack:\"SteamPunk\", pages: [ '[ {\"text\":\"\\\\u26A0\",\"color\":\"dark_red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Veuillez remettre le livre sur la première page lorsque vous avez fini de le l\\'utiliser.\",\"color\":\"red\"}]}}, {\"text\":\"  SteamPunk: Info  \",\"color\":\"dark_gray\"}, {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Ce livre explique les différentes fonctionnalités du datapack.\\\\nLes éléments cliquables sont en cyan sur la table des matières.\\\\n-----------------------------------------------------\\\\nLes \\'\\\\u00ab\\' permettent de retourner à la première page du livre.\\\\nLes \\'\\\\u24be\\' permettent d\\'afficher des informations sur la page actuelle lorsque l\\'on passe la souris dessus.\",\"color\":\"green\"}]}}, {\"text\":\"\\\\n\",\"color\":\"white\"}, {\"text\":\"-------------------\",\"color\":\"black\"}, {\"text\":\"\\\\n\",\"color\":\"white\"}, {\"text\":\"  Table des matières\",\"color\":\"black\"}, {\"text\":\"\\\\n\",\"color\":\"white\"}, {\"text\":\"-------------------\",\"color\":\"black\"}, {\"text\":\"\\\\n\",\"color\":\"white\"}, {\"text\":\"  Change de monnaie :\",\"color\":\"red\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\"       +\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"2\"}}, {\"text\":\"     |\",\"color\":\"red\"}, {\"text\":\"     -\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"3\"}}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\"      Shops métier\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4\"}} ]', '[ {\"text\":\"\\\\u00ab\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"}}, {\"text\":\"  Change de Milys  \",\"color\":\"dark_green\"}, {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Sur cette page et la suivant, les lettres ont pour signification :\\\\n - b = Bronze\\\\n - a = Argent\\\\n - g = Or\\\\n - d = Diamand\\\\n - n = Netherite\\\\n-----------------------------------------------------\\\\nCette page et la suivante permettent d\\'échanger des pièces Milys contre d\\'autres pièces de Milys de valeur inférieure ou supérieure.\",\"color\":\"gold\"}]}}, {\"text\":\"\\\\n\",\"color\":\"white\"}, {\"text\":\"-------------------\",\"color\":\"dark_red\"}, {\"text\":\"\\\\n\",\"color\":\"white\"}, {\"text\":\" (par val supérieure)\",\"color\":\"dark_aqua\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\"  5b = 1a / 10b = 2a\",\"color\":\"black\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\"  2a = 1g / 10a = 5g\",\"color\":\"black\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\" 10g = 1d / 50g = 5d\",\"color\":\"black\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\" 10d = 1n / 50d = 5n\",\"color\":\"black\"} ]', '[ {\"text\":\"\\\\u00ab\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"}}, {\"text\":\"  Change de Milys  \",\"color\":\"dark_green\"}, {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Sur cette page et la précédente, les lettres ont pour signification :\\\\n - b = Bronze\\\\n - a = Argent\\\\n - g = Or\\\\n - d = Diamand\\\\n - n = Netherite\\\\n-----------------------------------------------------\\\\nCette page et la précédente permettent d\\'échanger des pièces Milys contre d\\'autres pièces de Milys de valeur inférieure ou supérieure.\",\"color\":\"gold\"}]}}, {\"text\":\"\\\\n\",\"color\":\"white\"}, {\"text\":\"-------------------\",\"color\":\"dark_red\"}, {\"text\":\"\\\\n\",\"color\":\"white\"}, {\"text\":\"  (par val inférieure)\",\"color\":\"dark_aqua\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\"        5n = 10d\",\"color\":\"black\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\"        1d = 10g\",\"color\":\"black\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\" 10g = 20a / 1g = 2a\",\"color\":\"black\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\" 10a = 50b / 1a = 5b\",\"color\":\"black\"} ]', '[ {\"text\":\"\\\\u00ab\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"1\"}}, {\"text\":\"     Shops métier   \",\"color\":\"dark_green\"}, {\"text\":\"\\\\u24be\",\"color\":\"red\",\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Explications sur le système de shop.\",\"color\":\"gold\"}]}}, {\"text\":\"\\\\n\",\"color\":\"white\"}, {\"text\":\"-------------------\",\"color\":\"dark_red\"}, {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}, {\"text\":\"Pour vendre des items contre du milys, cliquez droit sur le panneau correspondant à ce que vous \",\"color\":\"black\"}, {\"text\":\"voulez vendre, tout en ayant la quantité indiqué de cet item dans votre main principale.\",\"color\":\"black\"} ]' ] }"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
