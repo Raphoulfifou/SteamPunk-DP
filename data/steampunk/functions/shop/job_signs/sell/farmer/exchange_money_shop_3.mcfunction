@@ -16,3 +16,6 @@ execute as @s[nbt={SelectedItem: {id: "minecraft:rabbit", Count: 64b}}] run func
 execute as @s[nbt={SelectedItem: {id: "minecraft:cooked_rabbit", Count: 64b}}] run function steampunk:money/replace/replace_money_1
 execute as @s[nbt={SelectedItem: {id: "minecraft:mutton", Count: 64b}}] run function steampunk:money/replace/replace_money_1
 execute as @s[nbt={SelectedItem: {id: "minecraft:cooked_mutton", Count: 64b}}] run function steampunk:money/replace/replace_money_1
+
+execute as @s[nbt={SelectedItem: {id: "minecraft:feather", Count: 64b}}] run function steampunk:money/replace/replace_money_1
+execute as @s[nbt={SelectedItem: {id: "minecraft:hay_block", Count: 64b}}] run function steampunk:money/replace/replace_money_1
