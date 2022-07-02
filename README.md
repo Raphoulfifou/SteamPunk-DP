@@ -2,9 +2,9 @@
 
 The pack is divided is different categories :
 
-- The Steamunk part (for info, see [`STEAMPUNK.md`](docs/STEAMPUNK.md))
-- Advancements (see [`Advancements.md`](docs/Advancements.md))
-- A resource pack (see [`ResourcePack.md`](docs/ResourcePack.md))
+- The Steamunk part (for info, see [`STEAMPUNK.md`](docs/en/STEAMPUNK.md))
+- Advancements (see [`Advancements.md`](docs/en/Advancements.md))
+- A resource pack (see [`ResourcePack.md`](docs/en/ResourcePack.md))
 
 ***
 
@@ -18,6 +18,6 @@ If you would like to see some features in this pack and know how to code them, t
 
 ![pull requests](https://img.shields.io/github/issues-pr/Raphoulfifou/SteamPunk-DP-main?color=informational&style=for-the-badge)
 
-If you find an issue, open one and I'll try  to fix it
+If you find an issue, feel free to report it on this repository
 
 ![issues](https://img.shields.io/github/issues/Raphoulfifou/SteamPunk-DP-main?color=red&style=for-the-badge)

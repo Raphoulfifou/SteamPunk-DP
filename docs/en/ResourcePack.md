@@ -2,18 +2,18 @@
 
 > The pack is divided in 4 folders :
 >
-> 1. cim
-> 2. cyan
-> 3. minecraft
-> 4. steampunk
+> 1. [cim](../../RP/assets/cim/)
+> 2. [cyan](../../RP/assets/cyan/)
+> 3. [minecraft](../../RP/assets/minecraft/)
+> 4. [steampunk](../../RP/assets/steampunk/)
 
 ## <span style="color:#00cc99">__I). CIM__</span>
 
 > _CIM stands for Custom Item Model_
 
 This part contains the custom textures used for Milys and books\
-![Milys](images/Milys.png)
-![Books](images/Books.png)
+![Milys](../images/Milys.png)
+![Books](../images/Books.png)
 
 ## <span style="color:#00cc99">__II). Cyan__</span>
 
