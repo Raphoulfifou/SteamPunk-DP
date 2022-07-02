@@ -1,6 +1,6 @@
 # Documentation for the Resource Pack
 
-> The pack is divided in 4 parts :
+> The pack is divided in 4 folders :
 > 1. cim
 > 2. cyan
 > 3. minecraft
@@ -18,3 +18,12 @@ This part contains the custom textures used for Milys and books\
 
 > Contains the translation files for the cyan mod (which is present on the server) 
 
+## <span style="color:purple">__III). Minecraft__</span>
+
+Contains :
+- the translation files for the cyan mod (for the advancements)
+- the custom models (for the steampunk datapack)
+
+## <span style="color:purple">__IV). SteamPunk__</span>
+
+Contains translation files for the SteamPunk datapack
