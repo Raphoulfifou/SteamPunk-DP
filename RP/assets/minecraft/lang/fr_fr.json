@@ -9,10 +9,6 @@
   "advancements.sd.root.title": "Datapacks du serveur",
   "advancements.sd.root.description": "Datapacks installés sur le serveur",
   "advancements.sd.rd.description": "[Auteur]",
-  "advancements.sd.ae.title": "Armor Effects",
-  "advancements.sd.ae.description": "Ajoute quelques effets quand une pièce ou un outil en netherite, ou une elytre est équipé",
-  "advancements.sd.crafting.title": "Crafting Plus",
-  "advancements.sd.crafting.description": "Ajoute quelques crafts supplémentaires",
-  "advancements.sd.cyda.title": "Cyan Datapack",
-  "advancements.sd.cyda.description": "Ajoute quelques fonctionnalité utiles"
+  "advancements.sd.cyab.title": "Cyan Datapack",
+  "advancements.sd.cyab.description": "Ajoute quelques fonctionnalité utiles"
 }
