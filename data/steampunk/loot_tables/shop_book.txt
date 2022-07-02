@@ -30,9 +30,9 @@
       {\"text\":\" Panneaux de métier \",\"color\":\"dark_blue\"},
       {\"text\":\"\\\\n\",\"color\":\"white\"},
       {\"text\":\"-------------------\\\\n\",\"color\":\"dark_red\"},
-      {\"text\":\"         Fermier\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/give_sign_farmer\"}},
+      {\"text\":\"         Fermier\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/sell/give_sign_farmer\"}},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-      {\"text\":\"        Forgeron\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/give_sign_blacksmith\"}},
+      {\"text\":\"        Forgeron\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/sell/give_sign_blacksmith\"}},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}
     ]',
@@ -43,11 +43,11 @@
       {\"text\":\"  Métier de Fermier \",\"color\":\"dark_blue\"},
       {\"text\":\"\\\\n\",\"color\":\"white\"},
       {\"text\":\"-------------------\\\\n\",\"color\":\"dark_red\"},
-      {\"text\":\"    Drops d\\'Animaux\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/farmer/give_sign_shop_animal\"}},
+      {\"text\":\"    Drops d\\'Animaux\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/sell/farmer/give_sign_shop_animal\"}},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-      {\"text\":\"Poissons\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/farmer/give_sign_shop_fish\"}},
+      {\"text\":\"Poissons\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/sell/farmer/give_sign_shop_fish\"}},
       {\"text\":\"  /  \",\"color\":\"dark_red\"},
-      {\"text\":\"Végétaux\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/farmer/give_sign_shop_vegetal_food\"}},
+      {\"text\":\"Végétaux\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/sell/farmer/give_sign_shop_vegetal_food\"}},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}
     ]',
 
@@ -57,11 +57,11 @@
       {\"text\":\"  Métier de Fermier \",\"color\":\"dark_blue\"},
       {\"text\":\"\\\\n\",\"color\":\"white\"},
       {\"text\":\"-------------------\\\\n\",\"color\":\"dark_red\"},
-      {\"text\":\"    Drops d\\'Animaux\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/farmer/give_sign_shop_animal\"}},
+      {\"text\":\"    Drops d\\'Animaux\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/sell/farmer/give_sign_shop_animal\"}},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-      {\"text\":\"Poissons\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/farmer/give_sign_shop_fish\"}},
+      {\"text\":\"Poissons\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/sell/farmer/give_sign_shop_fish\"}},
       {\"text\":\"  /  \",\"color\":\"dark_red\"},
-      {\"text\":\"Végétaux\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/sell/farmer/give_sign_shop_vegetal_food\"}},
+      {\"text\":\"Végétaux\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/sell/farmer/give_sign_shop_vegetal_food\"}},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}
     ]',
 
@@ -71,8 +71,8 @@
       {\"text\":\"  Livres enchantés \",\"color\":\"dark_blue\"},
       {\"text\":\"\\\\n\",\"color\":\"white\"},
       {\"text\":\"-------------------\\\\n\",\"color\":\"dark_red\"},
-      {\"text\":\"  Mending\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/buy/books/give_sign_mending\"}},
-      {\"text\":\"   Thorns III\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:shop/job_signs/buy/books/give_sign_thorns\"}},
+      {\"text\":\"  Mending\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/buy/books/give_sign_mending\"}},
+      {\"text\":\"   Thorns III\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:money/shop/job_signs/buy/books/give_sign_thorns\"}},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"}
     ]'
   ]
