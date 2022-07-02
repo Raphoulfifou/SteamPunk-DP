@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:black_candle"
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: RaphoulfifouII}"
         },
         "title": "Steampunk",
         "description": [

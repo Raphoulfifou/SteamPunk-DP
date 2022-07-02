@@ -2,7 +2,8 @@
     "parent": "sd:rd",
     "display": {
         "icon": {
-            "item": "minecraft:black_candle"
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: RaphoulfifouII}"
         },
         "title": "SteamPunk",
         "description": [
