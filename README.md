@@ -1,4 +1,4 @@
-# Main documentation for the datapack
+# Main documentation for the datapack (English)
 
 The pack is divided is different categories :
 
@@ -8,7 +8,7 @@ The pack is divided is different categories :
 
 ***
 
-Discord of the server (currently private but will be public at some time)\
+Discord of the server (currently private but will be public at some time)
 
 ![discord badge](https://img.shields.io/discord/973614901899694150?color=%236666cc&label=DISCORD&style=for-the-badge)
 
