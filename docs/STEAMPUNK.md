@@ -3,7 +3,7 @@
 This part of the pack have multiple functionnalities :
 
 1. A money system with :
-    - Exchanges
-    - A [shop](../data/steampunk/functions/shop/)
+    - [A shop](../data/steampunk/functions/money/money_exchange/)
+    - [Exchanges](../data/steampunk/functions/money/money_exchange/)
 
 2. Player utilities
