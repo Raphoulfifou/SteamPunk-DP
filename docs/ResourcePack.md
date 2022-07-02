@@ -9,7 +9,7 @@
 
 ## <span style="color:#00cc99">__I). CIM__</span>
 
-> CIM stands for Custom Item Model
+> _CIM stands for Custom Item Model_
 
 This part contains the custom textures used for Milys and books\
 ![Milys](images/Milys.png)

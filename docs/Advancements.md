@@ -7,7 +7,7 @@ There is 2 advancements pages :
 
 ## <span style="color:#00cc99">__I). SD__</span>
 
-> SD stands for Server's Datapacks
+> _SD stands for Server's Datapacks_
 
 This advancement page's purpose is to see which datapacks (made by me) are installed on the server
 
