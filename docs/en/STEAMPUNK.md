@@ -14,7 +14,7 @@ When a player enters `/reload` in the chat, a message saying that the pack has b
 
 To get the main book, enter `/function steampunk:help/get_book`. With it, you can acces all the functionnalities tha are in this datapack
 
-To display interactive settings in chat, enter `/function steampunk:help/settings_click` or click on _Settings_ in the main book
+To display interactive settings in chat, enter `/function steampunk:help/settings_click` or click on _Paramètres_ in the main book
 
 ***
 
