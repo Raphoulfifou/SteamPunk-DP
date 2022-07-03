@@ -10,10 +10,6 @@ This repository is divided in different categories :
 
 ***
 
-[^1]: DP stands for DataPack
-
-***
-
 Discord of the server (currently private but will be public at some time)
 
 ![discord badge](https://img.shields.io/discord/973614901899694150?color=%236666cc&label=DISCORD&style=for-the-badge&logo=discord)
@@ -27,3 +23,5 @@ If you would like to see some features in this pack and know how to code them, t
 If you find an issue, feel free to report it on this repository
 
 ![issues](https://img.shields.io/github/issues/Raphoulfifou/SteamPunk-DP-main?color=red&style=for-the-badge)
+
+[^1]: DP stands for DataPack
