@@ -1,16 +1,22 @@
 # Main documentation for the datapack (English)
 
-The pack is divided is different categories :
+## This pack is used on my server, SteamPunk MC
 
-- The Steamunk part (for info, see [`STEAMPUNK.md`](docs/en/STEAMPUNK.md))
-- Advancements (see [`Advancements.md`](docs/en/Advancements.md))
+This repository is divided in different categories :
+
+- The datapack (for info, see [`STEAMPUNK.md`](docs/en/STEAMPUNK.md))
+- The advancements, included in the DP[^1] (see [`Advancements.md`](docs/en/Advancements.md))
 - A resource pack (see [`ResourcePack.md`](docs/en/ResourcePack.md))
+
+***
+
+[^1]: DP stands for DataPack
 
 ***
 
 Discord of the server (currently private but will be public at some time)
 
-![discord badge](https://img.shields.io/discord/973614901899694150?color=%236666cc&label=DISCORD&style=for-the-badge)
+![discord badge](https://img.shields.io/discord/973614901899694150?color=%236666cc&label=DISCORD&style=for-the-badge&logo=discord)
 
 ***
 
