@@ -21,10 +21,6 @@
       {\"text\":\"\\\\n\",\"color\":\"white\"},
       {\"text\":\"         Credits\",\"color\":\"red\",\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4\"}},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
-      {\"text\":\"   Livre d\\'informations\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:help/get_info_book\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Donne le livre permettant l\\'accès aux\\\\ndifférents panneaux de vente.\",\"color\":\"green\"}]}},
-      {\"text\":\"\\\\n\",\"color\":\"white\"},
-      {\"text\":\"      Livre du shop\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:help/get_shop_book\"},\"hoverEvent\":{\"action\":\"show_text\",\"contents\":[{\"text\":\"Donne le livre d\\'informations.\",\"color\":\"green\"}]}},
-      {\"text\":\"\\\\n\",\"color\":\"white\"},
       {\"text\":\"       Paramètres\",\"color\":\"red\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:help/settings_click\"}},
       {\"text\":\"\\\\n\\\\n\",\"color\":\"white\"},
       {\"text\":\"    Crédits Complets\",\"color\":\"dark_green\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/function steampunk:help/credits\"}}

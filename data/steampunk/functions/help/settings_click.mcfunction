@@ -6,7 +6,12 @@
 ##
 
 tellraw @s [{"text":"\n--------------------------","color":"gold","bold":true}]
-tellraw @s [{"text":"SteamPunk datapack - Aide\n","color":"gold","bold":true}]
-tellraw @s [{"text":"Obtenez le livre en cliquant ","color":"dark_aqua"},{"text":"ici","color":"green","clickEvent":{"action":"run_command","value":"/function steampunk:help/get_book"}}]
-tellraw @s [{"text":"Crédits","color":"green","clickEvent":{"action":"run_command","value":"/function steampunk:help/credits"}}]
+tellraw @s [{"text":"SteamPunk datapack - Aide","color":"gold","bold":true}]
+tellraw @s [{"text":"(Cliquez sur les liens)\n","color":"red","italic":true}]
+
+tellraw @s [{"text":"- Livre principal","color":"aqua","clickEvent":{"action":"run_command","value":"/function steampunk:help/get_book"}}]
+tellraw @s [{"text":"- Livre d'informations","color":"aqua","clickEvent":{"action":"run_command","value":"/function steampunk:help/get_info_book"}}]
+tellraw @s [{"text":"- Livre de gestion du Shop","color":"aqua","clickEvent":{"action":"run_command","value":"/function steampunk:help/get_shop_book"}}]
+
+tellraw @s [{"text":"\nCrédits","color":"yellow","clickEvent":{"action":"run_command","value":"/function steampunk:help/credits"}}]
 tellraw @s [{"text":"--------------------------\n","color":"gold","bold":true}]

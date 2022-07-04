@@ -2,22 +2,24 @@
 
 > The pack is divided in 4 folders :
 >
-> 1. [cim](../../RP/assets/cim/)
-> 2. [cyan](../../RP/assets/cyan/)
-> 3. [minecraft](../../RP/assets/minecraft/)
-> 4. [steampunk](../../RP/assets/steampunk/)
+> 1. [cim](../RP/assets/cim/)
+> 2. [cyan](../RP/assets/cyan/)
+> 3. [minecraft](../RP/assets/minecraft/)
+> 4. [steampunk](../RP/assets/steampunk/)
 
 ## <span style="color:#00cc99">__I). CIM__</span>
 
 > _CIM stands for Custom Item Model_
 
 This part contains the custom textures used for Milys and books\
-![Milys](../images/Milys.png)
-![Books](../images/Books.png)
+![Milys](images/Milys.png)
+![Books](images/Books.png)
 
 ## <span style="color:#00cc99">__II). Cyan__</span>
 
 > Contains the translation files for the cyan mod (which is present on the server)
+
+The Cyan mod can be found on my [Modrinth profile](https://modrinth.com/user/Raphoulfifou)
 
 ## <span style="color:#00cc99">__III). Minecraft__</span>
 
