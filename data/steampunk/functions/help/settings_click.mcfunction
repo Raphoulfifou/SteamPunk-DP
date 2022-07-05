@@ -11,7 +11,6 @@ tellraw @s [{"text":"(Passez votre souris sur ce texte)\n","color":"dark_green",
 
 tellraw @s [{"text":"- Livre principal","color":"aqua","clickEvent":{"action":"run_command","value":"/function steampunk:help/get_book"}}]
 tellraw @s [{"text":"- Livre d'informations","color":"aqua","clickEvent":{"action":"run_command","value":"/function steampunk:help/get_info_book"}}]
-tellraw @s [{"text":"- Livre de gestion du Shop","color":"aqua","clickEvent":{"action":"run_command","value":"/function steampunk:help/get_shop_book"}}]
 
 tellraw @s [{"text":"\n- Paramètres du SHOP","color":"aqua","clickEvent":{"action":"run_command","value":"/function steampunk:help/settings/shop_click"}}]
 
