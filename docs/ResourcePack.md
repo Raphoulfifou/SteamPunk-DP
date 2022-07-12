@@ -15,6 +15,20 @@ This part contains the custom textures used for Milys and books\
 ![Milys](images/Milys.png)
 ![Books](images/Books.png)
 
+```json
+Here are the CustomModelData references
+{
+    "1": "Statues Book",
+    "2": "Steampunk Book",
+    "3": "1 Milys",
+    "4": "5 Milys",
+    "5": "10 Milys",
+    "6": "100 Milys",
+    "7": "1000 Milys",
+    "8": "Info Book"
+}
+```
+
 ## <span style="color:#00cc99">__II). Cyan__</span>
 
 > Contains the translation files for the cyan mod (which is present on the server)
