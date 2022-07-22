@@ -25,7 +25,8 @@ Here are the CustomModelData references
     "5": "10 Milys",
     "6": "100 Milys",
     "7": "1000 Milys",
-    "8": "Info Book"
+    "8": "Info Book",
+    "9": "Commands Book"
 }
 ```
 
